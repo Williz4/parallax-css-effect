@@ -8,6 +8,7 @@ body {
 	width: 100%;
 	background-image: url(../img/1.jpg);
 	background-size: cover;
+	background-attachment: fixed;
 }
 
 #box2 {
@@ -15,6 +16,7 @@ body {
 	width: 100%;
 	background-image: url(../img/2.jpg);
 	background-size: cover;
+	background-attachment: fixed;
 }
 
 #box3 {
@@ -22,6 +24,7 @@ body {
 	width: 100%;
 	background-image: url(../img/3.jpeg);
 	background-size: cover;
+	background-attachment: fixed;
 }
 
 #box4 {
@@ -29,6 +32,7 @@ body {
 	width: 100%;
 	background-image: url(../img/4.jpg);
 	background-size: cover;
+	background-attachment: fixed;
 }
 
 #box5 {
@@ -36,5 +40,6 @@ body {
 	width: 100%;
 	background-image: url(../img/5.jpeg);
 	background-size: cover;
+	background-attachment: fixed;
 }
 
