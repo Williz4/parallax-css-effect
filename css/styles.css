@@ -9,6 +9,10 @@ body {
 	background-image: url(../img/1.jpg);
 	background-size: cover;
 	background-attachment: fixed;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
 }
 
 #box2 {
@@ -43,3 +47,11 @@ body {
 	background-attachment: fixed;
 }
 
+#box1 > h1{
+	margin: 0;
+	color: #fff;
+	font-family: 'Berkshire Swash', cursive;
+	background-color: rgba(0, 0, 0, .7);
+	padding: 50px;
+	text-transform: uppercase;
+}
